@@ -10,8 +10,27 @@ Este repositório faz parte de uma atividade colaborativa sobre controle de vers
 
 | Integrante | Responsabilidade |
 | --- | --- |
-| `[Nome do integrante 1]` | `[Tarefa / Issue]` |
+| Nathaniel | Seção de apresentação (Issue #1) e tabela de redes sociais (Issue #2) |
 | `[Nome do integrante 2]` | `[Tarefa / Issue]` |
+
+## Apresentação dos integrantes
+
+- **Nathaniel** participa da atividade colaborativa e está estudando Python.
+- **[Nome do integrante 2]**: `[breve apresentação]`
+
+## Redes sociais
+
+| Integrante | GitHub |
+| --- | --- |
+| Nathaniel | [@nathanielmendes02-lab](https://github.com/nathanielmendes02-lab) |
+| `[Nome do integrante 2]` | `[perfil público]` |
+
+## Linguagens estudadas
+
+| Integrante | Linguagens |
+| --- | --- |
+| Nathaniel | Python |
+| `[Nome do integrante 2]` | `[linguagens]` |
 
 ## Objetivos
 
