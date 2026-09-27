@@ -1,22 +1,25 @@
-# desafio-colaborativo-git
+# Desafio Colaborativo Git
 
-> Um espaço para praticar Git e GitHub em equipe, com tarefas, revisões e integração de código.
+> Repositório criado para praticar o uso de Git e GitHub em equipe, com criação de branches, commits, Pull Requests, revisão e integração de alterações.
 
 ## Sobre o projeto
 
-Este repositório faz parte de uma atividade colaborativa sobre controle de versão. Cada integrante trabalha em uma branch própria, registra suas alterações em commits e envia um Pull Request para revisão antes da integração à `main`.
+Este projeto faz parte de uma atividade prática de versionamento de código e colaboração remota. O objetivo é aplicar os conceitos de controle de versões com Git, trabalhando em equipe, organizando tarefas por issues e validando as alterações por meio de revisão antes do merge para a branch principal.
 
 ## Equipe
 
-| Integrante | Responsabilidade |
+| Integrante | Papel na atividade |
 | --- | --- |
-| Nathaniel | Seção de apresentação (Issue #1) e tabela de redes sociais (Issue #2) |
-| João | Lista de linguagens (Issue #3) e estilização (Issue #4) |
+| Nathaniel | Apresentação do projeto e tabela de redes sociais |
+| João | Linguagens estudadas e estilização visual do README |
 
 ## Apresentação dos integrantes
 
-- **Nathaniel** participa da atividade colaborativa e está estudando Python.
-- **João** participa da atividade colaborativa e estuda Python.
+### Nathaniel
+Estudante interessado em desenvolvimento e em aprender novas ferramentas de programação. Participa da atividade para praticar versionamento, organização de trabalho em equipe e colaboração no GitHub.
+
+### João
+Estudante também envolvido no desenvolvimento de habilidades em programação e trabalho colaborativo. Participa da atividade para aprender a estrutura de fluxo de trabalho em projetos compartilhados.
 
 ## Redes sociais
 
@@ -32,28 +35,33 @@ Este repositório faz parte de uma atividade colaborativa sobre controle de vers
 | Nathaniel | Python |
 | João | Python |
 
-## Objetivos
+## Objetivos da atividade
 
-- Praticar criação e uso de branches.
-- Relacionar alterações às Issues do repositório.
-- Revisar o trabalho de outra pessoa antes do merge.
-- Resolver um conflito de merge sem perder conteúdo.
+- Praticar a criação e utilização de branches no Git.
+- Trabalhar com commits organizados e mensagens claras.
+- Relacionar cada alteração com uma issue específica.
+- Abrir Pull Requests para revisão.
+- Resolver conflitos de merge de forma correta.
+- Aprender a colaborar em projetos reais de desenvolvimento.
 
 ## Fluxo de contribuição
 
-1. Escolha uma Issue atribuída a você.
-2. Crie uma branch específica para a tarefa, por exemplo `feature/estilizacao-visual`.
-3. Faça alterações pequenas e registre-as com uma mensagem clara de commit.
-4. Envie a branch ao GitHub e abra um Pull Request para `main`.
-5. Inclua `Closes #numero` na descrição do PR e peça a revisão de outra pessoa.
-6. Integre o PR somente depois da revisão e da resolução de eventuais conflitos.
+1. Criar uma issue para a tarefa atribuída.
+2. Criar uma branch específica para a atividade.
+3. Fazer as alterações no projeto e registrar com commit.
+4. Enviar a branch para o GitHub.
+5. Abrir um Pull Request para a branch principal.
+6. Incluir a referência da issue no PR usando `Closes #n`.
+7. Solicitar revisão do colega.
+8. Realizar ajustes, se necessário, e concluir o merge após aprovação.
 
-## Tecnologias
+## Tecnologias utilizadas
 
 - Git
 - GitHub
 - Markdown
+- Visual Studio Code
 
 ## Status
 
-Atividade em andamento.
+Atividade em andamento, com foco na prática de colaboração, organização de branches e integração de alterações em um ambiente de desenvolvimento em equipe.
